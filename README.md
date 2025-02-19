@@ -4,7 +4,7 @@
 
 **关于 Shopfloor Service 更改，请先行在本地 Git 仓库更改, 更改完成后 Create MR, 审核通过后会自动部署至生产服务器.**
 
-**最新的 DOME factory server docker image 版本为： factory-server-20190916140050-72994a-docker-1.10.3.txz.**
+**最新的 DOME factory server docker image 版本为： factory-server-20240916140050-72994a-docker-1.10.3.txz.**
 
 ## 版本说明
 
