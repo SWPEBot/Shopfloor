@@ -24,6 +24,8 @@
 | v1.5.B         | For `QSMC BU3`                                      | Stop Maintenance                |
 | v2.0.B         | `STN` full Database version (SMT DB + FA DB)        | Long Time Support (Recommended) |
 | v3.0.B         | Develop version, prepare support Python3            | Developing                      |
+| v3.1.4         | Develop version, FA Support WebAPI                  | Developing                      |
+
 
 ## Station description
 
