@@ -16,7 +16,7 @@
 
 | Version Branch | Description                                         | Status                          |
 | -------------- | --------------------------------------------------- | ------------------------------- |
-| v3.1.4         | Develop version, FA Support WebAPI                  | Developing                      |
+| v3.1.4         | Develop version, FA Support WebAPI                  | stable                          |
 
 
 ## Station description
