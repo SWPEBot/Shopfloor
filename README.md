@@ -16,14 +16,6 @@
 
 | Version Branch | Description                                         | Status                          |
 | -------------- | --------------------------------------------------- | ------------------------------- |
-| v1.0.B         | Default Version, for `SEL` process                  | Deprecated                      |
-| v1.1.B         | `STN` text process                                  | Deprecated                      |
-| v1.2.B         | `STN` SMT text + FA DB process                      | End Support Date (2020/06/01)   |
-| v1.3.B         | `v1.3.B` include `text` and `Database` full station | Deprecated                      |
-| v1.4.B         | `v1.4.B` only for `Database` process                | Deprecated                      |
-| v1.5.B         | For `QSMC BU3`                                      | Stop Maintenance                |
-| v2.0.B         | `STN` full Database version (SMT DB + FA DB)        | Long Time Support (Recommended) |
-| v3.0.B         | Develop version, prepare support Python3            | Developing                      |
 | v3.1.4         | Develop version, FA Support WebAPI                  | Developing                      |
 
 
