@@ -16,7 +16,7 @@
 
 | Version Branch | Description                                         | Status                          |
 | -------------- | --------------------------------------------------- | ------------------------------- |
-| v3.1.4         | Develop version, FA Support WebAPI                  | stable                          |
+| v3.1.4         | FA Support WebAPI,Retry DB server ip                | stable                          |
 
 
 ## Station description
