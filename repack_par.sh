@@ -1,7 +1,5 @@
 #!/bin/bash
 # Script to replace a file within factory.par
-# @author: huanhuanl@chromium.org
-# @date: 2025-01-08
 # Usage: bash repack_par.sh --replace <target_path> <source_file>
 # Example1: bash repack_par.sh --replace cros/factory/gooftool/wipe.py \
 # new_wipe.py
